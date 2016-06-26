@@ -1,0 +1,39 @@
+body
+{
+background-color :#BEEFED ;
+text-align:justify;
+/* texte  classique au centre sur fond uni-color*/
+ }
+table
+ {
+/* tous les tableaux sous le même format encadrement simple */
+   border-width:1px;
+   border-style:solid;
+   border-color:black;
+   width:50%;
+   }
+  td
+  /* format une ligne pour deux colonnes*/
+   {
+   border-width:1px;
+   border-style:solid;
+   border-color:black;
+   width:50%;
+
+ }
+
+
+
+  <p>
+
+ </p>
+</div>
+
+
+
+
+
+h1
+{color:black;
+font-family: Arial,impact, comic;
+}
