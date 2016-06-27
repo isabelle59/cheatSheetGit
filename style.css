@@ -1,7 +1,7 @@
 body
 {
 background-color :#BEEFED ;
-text-align:justifyi;
+text-align:justify;
 /* texte  classique au centre sur fond uni-color*/
  }
 table
@@ -11,6 +11,7 @@ table
    border-style:solid;
    border-color:black;
    width:50%;
+
    }
   td
   /* format une ligne pour deux colonnes*/
@@ -24,12 +25,6 @@ table
 
 
 
-  <p>
-
- </p>
-</div>
-
-
 
 
 
@@ -37,3 +32,4 @@ h1
 {color:black;
 font-family: Arial,impact, comic;
 }
+@media only screen and (max-width:980px)
